@@ -1,0 +1,5 @@
+/Users/sterlinglong/NonCloud/FIO/ECurve/ECurve/obj/Debug/net471/ECurve.csproj.AssemblyReference.cache
+/Users/sterlinglong/NonCloud/FIO/ECurve/ECurve/obj/Debug/net471/ECurve.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sterlinglong/NonCloud/FIO/ECurve/ECurve/obj/Debug/net471/ECurve.AssemblyInfoInputs.cache
+/Users/sterlinglong/NonCloud/FIO/ECurve/ECurve/obj/Debug/net471/ECurve.AssemblyInfo.cs
+/Users/sterlinglong/NonCloud/FIO/ECurve/ECurve/obj/Debug/net471/ECurve.csproj.CoreCompileInputs.cache

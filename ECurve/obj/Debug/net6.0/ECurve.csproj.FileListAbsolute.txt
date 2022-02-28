@@ -1,0 +1,12 @@
+/Users/sterlinglong/NonCloud/FIO/ECurve/Ecurve/bin/Debug/net6.0/ECurve.deps.json
+/Users/sterlinglong/NonCloud/FIO/ECurve/ECurve/bin/Debug/net6.0/ECurve.dll
+/Users/sterlinglong/NonCloud/FIO/ECurve/Ecurve/bin/Debug/net6.0/ref/ECurve.dll
+/Users/sterlinglong/NonCloud/FIO/ECurve/ECurve/bin/Debug/net6.0/ECurve.pdb
+/Users/sterlinglong/NonCloud/FIO/ECurve/ECurve/obj/Debug/net6.0/ECurve.csproj.AssemblyReference.cache
+/Users/sterlinglong/NonCloud/FIO/ECurve/ECurve/obj/Debug/net6.0/ECurve.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sterlinglong/NonCloud/FIO/ECurve/ECurve/obj/Debug/net6.0/ECurve.AssemblyInfoInputs.cache
+/Users/sterlinglong/NonCloud/FIO/ECurve/ECurve/obj/Debug/net6.0/ECurve.AssemblyInfo.cs
+/Users/sterlinglong/NonCloud/FIO/ECurve/ECurve/obj/Debug/net6.0/ECurve.csproj.CoreCompileInputs.cache
+/Users/sterlinglong/NonCloud/FIO/ECurve/ECurve/obj/Debug/net6.0/ECurve.dll
+/Users/sterlinglong/NonCloud/FIO/ECurve/ECurve/obj/Debug/net6.0/ref/ECurve.dll
+/Users/sterlinglong/NonCloud/FIO/ECurve/ECurve/obj/Debug/net6.0/ECurve.pdb
